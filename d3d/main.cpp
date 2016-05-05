@@ -8,3 +8,5 @@
 
 // º¯ÊıÉùÃ÷
 bool InitializeD3D(HWND hWnd, bool  fullscreen);
+void RenderScene();
+void Shutdown();
